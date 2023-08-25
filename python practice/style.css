@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    position: relative;
+    padding-left: 43%;
+
+}
+
+.game {
+    display: none;
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+    font-size: 30px;
+    
+}
+
+.button_ctn {
+    display: inline-block;
+    position: relative;
+    left: 23%;
+    bottom: 30%;
+}
+   
+
